@@ -20,8 +20,10 @@ Folder Structure
 ├── 📂 server
 │   ├── server.py
 │   ├── client_data.json (stores user data)
+├── 📂 docs
+│   └── readme_ResultOfRun.pdf
 └── README.md (this file)
-
+ 
 Installation & Usage
 
 Server Setup
