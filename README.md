@@ -14,16 +14,16 @@ This project is a **client-server network application** that allows users to upl
 
 ## 📂 Folder Structure
 Network-Project
-   client/
-     client.py
-     Top.txt # Example file 
-     study.txt # Example file 
-     net.txt # Example file 
-  server/ 
-     server.py 
-     client_data.json # Stores user data
-  README.md # This file
-  readme_ResultOfRun.pdf
+│── client/
+│ ├── client.py
+│ ├── Top.txt # Example file 
+│ ├── study.txt # Example file 
+│ ├── net.txt # Example file 
+│── server/ 
+│ ├── server.py 
+│ ├── client_data.json # Stores user data
+│── README.md # This file
+│── readme_ResultOfRun.pdf
 
 
 ## Installation & Usage
